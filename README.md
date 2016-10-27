@@ -4,7 +4,7 @@
 
 int push(int); 
 int pop(int); 
-int a[10]; 
+int a[10];
 
 int main(){
 	int op,i, top = -1;
